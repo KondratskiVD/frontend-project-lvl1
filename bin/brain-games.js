@@ -1,3 +1,9 @@
 #!/usr/bin/env node
 
-console.log('Welcome to the Brain Games!')
+import { greattingUser } from '../src/cli.js'
+
+const startGame = () => {
+    return greattingUser();
+};
+
+startGame();
