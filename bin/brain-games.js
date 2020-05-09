@@ -1,9 +1,7 @@
 #!/usr/bin/env node
 
-import { greattingUser } from '../src/cli.js'
+import greattingUser from '../src/cli.js';
 
-const startGame = () => {
-    return greattingUser();
-};
+const startGame = () => greattingUser();
 
 startGame();
