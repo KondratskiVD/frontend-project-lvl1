@@ -24,4 +24,14 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-    - run: make lint
+    - name: npm install, build
+        # Install and build project
+      run: |
+          make brain-games
+        # Add environment variables
+      env:
+          CI: true
+    - name: Run linter
+        # Run Linter
+      run: |
+          make lint
