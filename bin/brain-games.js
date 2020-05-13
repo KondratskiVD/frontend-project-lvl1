@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import greattingUser from '../src/cli.js';
+import greattingUser from '../src/index.js';
 
 const startGame = () => greattingUser();
 
