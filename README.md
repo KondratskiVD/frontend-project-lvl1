@@ -6,8 +6,10 @@
 [![Node CI](https://github.com/kondratskivd/frontend-project-lvl1/workflows/Node%20CI/badge.svg)](https://github.com/KondratskiVD/frontend-project-lvl1/actions)
 
 game Even
+
 [![asciicast](https://asciinema.org/a/329290.svg)](https://asciinema.org/a/329290)
 
 
 game Calculator
+
 [![asciicast](https://asciinema.org/a/BM6ObvuaHxoqC4cfIJaIGGure.svg)](https://asciinema.org/a/BM6ObvuaHxoqC4cfIJaIGGure)
