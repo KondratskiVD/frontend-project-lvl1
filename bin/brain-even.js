@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-import game from '../src/game.js';
+import gameEven from '../src/index.js';
 
-const startGame = () => game();
+const startGame = () => gameEven('even');
 
 startGame();
