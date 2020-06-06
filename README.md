@@ -11,3 +11,6 @@ game Even
 
 game Calculator
 [![asciicast](https://asciinema.org/a/BM6ObvuaHxoqC4cfIJaIGGure.svg)](https://asciinema.org/a/BM6ObvuaHxoqC4cfIJaIGGure)
+
+game NOD
+[![asciicast](https://asciinema.org/a/mfiCnhtLm1kLbLGQDB9vDqVcr.svg)](https://asciinema.org/a/mfiCnhtLm1kLbLGQDB9vDqVcr)
