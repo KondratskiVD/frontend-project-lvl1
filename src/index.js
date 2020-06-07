@@ -2,6 +2,7 @@ import readlineSync from 'readline-sync';
 import { gameCalc, taskCalc } from './games/game-calc.js';
 import { gameEven, taskEven } from './games/game-even.js';
 import { gameGcd, taskGcd } from './games/game-gcd.js';
+import { gameProgression, taskProgression } from './games/game-progression.js';
 
 export default function greattingUser(gameName = '') {
   console.log('Welcome to the Brain Games!');
@@ -23,6 +24,9 @@ export default function greattingUser(gameName = '') {
     case 'gcd':
       console.log(taskGcd);
       break;
+    case 'progression':
+      console.log(taskProgression);
+      break;
   }
 
   const countOfTry = 3;
@@ -41,6 +45,9 @@ export default function greattingUser(gameName = '') {
         break;
       case 'gcd':
         [resultExpression, userAnswer] = gameGcd();
+        break;
+      case 'progression':
+        [resultExpression, userAnswer] = gameProgression();
         break;
     }
 
