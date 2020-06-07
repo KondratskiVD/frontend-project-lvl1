@@ -3,6 +3,7 @@ import { gameCalc, taskCalc } from './games/game-calc.js';
 import { gameEven, taskEven } from './games/game-even.js';
 import { gameGcd, taskGcd } from './games/game-gcd.js';
 import { gameProgression, taskProgression } from './games/game-progression.js';
+import { gamePrime, taskPrime } from './games/game-prime.js';
 
 export default function greattingUser(gameName = '') {
   console.log('Welcome to the Brain Games!');
@@ -27,6 +28,9 @@ export default function greattingUser(gameName = '') {
     case 'progression':
       console.log(taskProgression);
       break;
+    case 'prime':
+      console.log(taskPrime);
+      break;
   }
 
   const countOfTry = 3;
@@ -48,6 +52,9 @@ export default function greattingUser(gameName = '') {
         break;
       case 'progression':
         [resultExpression, userAnswer] = gameProgression();
+        break;
+      case 'prime':
+        [resultExpression, userAnswer] = gamePrime();
         break;
     }
 

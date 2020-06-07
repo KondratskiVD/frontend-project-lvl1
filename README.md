@@ -19,3 +19,6 @@ game NOD
 
 game Progression
 [![asciicast](https://asciinema.org/a/etddFO7M9kArgpGEvEwlpUgg5.svg)](https://asciinema.org/a/etddFO7M9kArgpGEvEwlpUgg5)
+
+game Prime
+[![asciicast](https://asciinema.org/a/f9Qi2i74j7bbeRokXib3Vtcy2.svg)](https://asciinema.org/a/f9Qi2i74j7bbeRokXib3Vtcy2)
