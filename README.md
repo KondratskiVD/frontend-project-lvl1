@@ -16,3 +16,6 @@ game Calculator
 
 game NOD
 [![asciicast](https://asciinema.org/a/mfiCnhtLm1kLbLGQDB9vDqVcr.svg)](https://asciinema.org/a/mfiCnhtLm1kLbLGQDB9vDqVcr)
+
+game Progression
+[![asciicast](https://asciinema.org/a/etddFO7M9kArgpGEvEwlpUgg5.svg)](https://asciinema.org/a/etddFO7M9kArgpGEvEwlpUgg5)
