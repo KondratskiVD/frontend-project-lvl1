@@ -31,6 +31,8 @@ export default function greattingUser(gameName = '') {
     case 'prime':
       console.log(taskPrime);
       break;
+    default:
+      return;
   }
 
   const countOfTry = 3;
@@ -56,6 +58,8 @@ export default function greattingUser(gameName = '') {
       case 'prime':
         [resultExpression, userAnswer] = gamePrime();
         break;
+      default:
+        return false;
     }
 
     if (resultExpression === userAnswer) {
