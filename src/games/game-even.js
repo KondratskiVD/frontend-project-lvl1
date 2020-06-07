@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 
-export const taskEven = 'Answer "yes" if the number is even, otherwise answer "no".'
+export const taskEven = 'Answer "yes" if the number is even, otherwise answer "no".';
 export const gameEven = () => {
   const question = () => Math.floor(Math.random() * 10 + 1);
   const expression = question();
