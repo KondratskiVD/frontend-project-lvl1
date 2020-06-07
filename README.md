@@ -15,10 +15,13 @@ game Calculator
 [![asciicast](https://asciinema.org/a/BM6ObvuaHxoqC4cfIJaIGGure.svg)](https://asciinema.org/a/BM6ObvuaHxoqC4cfIJaIGGure)
 
 game NOD
+
 [![asciicast](https://asciinema.org/a/mfiCnhtLm1kLbLGQDB9vDqVcr.svg)](https://asciinema.org/a/mfiCnhtLm1kLbLGQDB9vDqVcr)
 
 game Progression
+
 [![asciicast](https://asciinema.org/a/etddFO7M9kArgpGEvEwlpUgg5.svg)](https://asciinema.org/a/etddFO7M9kArgpGEvEwlpUgg5)
 
 game Prime
+
 [![asciicast](https://asciinema.org/a/f9Qi2i74j7bbeRokXib3Vtcy2.svg)](https://asciinema.org/a/f9Qi2i74j7bbeRokXib3Vtcy2)
